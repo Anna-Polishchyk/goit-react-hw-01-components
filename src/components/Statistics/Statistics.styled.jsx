@@ -29,7 +29,7 @@ export const StatList = styled.ul`
   justify-content: space-evenly;
   box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
-  background-color: rgba(140, 247, 227, 0.8);
+  background-color: #FFF2DE;
 `;
 
 export const Item = styled.li`
@@ -38,6 +38,7 @@ export const Item = styled.li`
   font-weight: 500;
   text-align: center;
   color: rgb(44 127 146);
+  background-color: #FFF2DE;
 `;
 
 export const Label = styled.span`

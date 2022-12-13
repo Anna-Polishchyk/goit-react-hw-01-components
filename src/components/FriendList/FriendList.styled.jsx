@@ -6,6 +6,7 @@ export const FriendListContainer = styled.ul`
   margin-left: auto;
   margin-bottom: 50px;
   padding: 20px;
+  background-color: #FFF2DE;
   box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
 `;
